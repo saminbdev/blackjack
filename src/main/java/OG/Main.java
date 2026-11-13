@@ -1,3 +1,5 @@
+package OG;
+
 public class Main {
     public static void main(String[] args) {
         Card ace = new Card("Hearts", "Ace");
